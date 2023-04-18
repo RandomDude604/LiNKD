@@ -6,7 +6,7 @@
     font-family: 'MuseoModerno', cursive, bold;
 }
 
-.topBar {
+.sidebar {
     font-family: 'MuseoModerno', cursive;
 }
 
@@ -19,10 +19,15 @@
 }
 
 .socials {
-    margin-left: 110px;
-    padding: 40px;
+    margin-left: 310px;
+    padding: 500px;
     text-align: center;
     background: #7d2ecdb9;
     color: rgba(255, 255, 255, 0.847);
     font-size: 18px;
+}
+
+#body1 {
+    color: black;
+    margin-left: 158px;
 }
